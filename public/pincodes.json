@@ -1,0 +1,630 @@
+{
+  "cities": [
+    {
+      "city": "Karachi",
+      "state": "Sindh",
+      "pincode": "74000"
+    },
+    {
+      "city": "Lahore",
+      "state": "Punjab",
+      "pincode": "54000"
+    },
+    {
+      "city": "Islamabad",
+      "state": "Islamabad Capital Territory",
+      "pincode": "44000"
+    },
+    {
+      "city": "Rawalpindi",
+      "state": "Punjab",
+      "pincode": "46000"
+    },
+    {
+      "city": "Faisalabad",
+      "state": "Punjab",
+      "pincode": "38000"
+    },
+    {
+      "city": "Multan",
+      "state": "Punjab",
+      "pincode": "60000"
+    },
+    {
+      "city": "Peshawar",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "25000"
+    },
+    {
+      "city": "Quetta",
+      "state": "Balochistan",
+      "pincode": "87300"
+    },
+    {
+      "city": "Sialkot",
+      "state": "Punjab",
+      "pincode": "51310"
+    },
+    {
+      "city": "Gujranwala",
+      "state": "Punjab",
+      "pincode": "52250"
+    },
+    {
+      "city": "Sargodha",
+      "state": "Punjab",
+      "pincode": "40100"
+    },
+    {
+      "city": "Bahawalpur",
+      "state": "Punjab",
+      "pincode": "63100"
+    },
+    {
+      "city": "Sukkur",
+      "state": "Sindh",
+      "pincode": "65200"
+    },
+    {
+      "city": "Jhang",
+      "state": "Punjab",
+      "pincode": "35200"
+    },
+    {
+      "city": "Sheikhupura",
+      "state": "Punjab",
+      "pincode": "39350"
+    },
+    {
+      "city": "Mardan",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "23200"
+    },
+    {
+      "city": "Gujrat",
+      "state": "Punjab",
+      "pincode": "50700"
+    },
+    {
+      "city": "Kasur",
+      "state": "Punjab",
+      "pincode": "55050"
+    },
+    {
+      "city": "Dera Ghazi Khan",
+      "state": "Punjab",
+      "pincode": "32200"
+    },
+    {
+      "city": "Sahiwal",
+      "state": "Punjab",
+      "pincode": "57000"
+    },
+    {
+      "city": "Nawabshah",
+      "state": "Sindh",
+      "pincode": "67450"
+    },
+    {
+      "city": "Mirpur Khas",
+      "state": "Sindh",
+      "pincode": "69000"
+    },
+    {
+      "city": "Okara",
+      "state": "Punjab",
+      "pincode": "56300"
+    },
+    {
+      "city": "Mingora",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "19130"
+    },
+    {
+      "city": "Chiniot",
+      "state": "Punjab",
+      "pincode": "35400"
+    },
+    {
+      "city": "Kamoke",
+      "state": "Punjab",
+      "pincode": "52350"
+    },
+    {
+      "city": "Hafizabad",
+      "state": "Punjab",
+      "pincode": "52110"
+    },
+    {
+      "city": "Sadiqabad",
+      "state": "Punjab",
+      "pincode": "64350"
+    },
+    {
+      "city": "Jaranwala",
+      "state": "Punjab",
+      "pincode": "37250"
+    },
+    {
+      "city": "Chishtian",
+      "state": "Punjab",
+      "pincode": "62350"
+    },
+    {
+      "city": "Attock",
+      "state": "Punjab",
+      "pincode": "43600"
+    },
+    {
+      "city": "Muzaffargarh",
+      "state": "Punjab",
+      "pincode": "34400"
+    },
+    {
+      "city": "Khanewal",
+      "state": "Punjab",
+      "pincode": "58150"
+    },
+    {
+      "city": "Jhelum",
+      "state": "Punjab",
+      "pincode": "49600"
+    },
+    {
+      "city": "Mandi Bahauddin",
+      "state": "Punjab",
+      "pincode": "50400"
+    },
+    {
+      "city": "Bhakkar",
+      "state": "Punjab",
+      "pincode": "30000"
+    },
+    {
+      "city": "Dera Ismail Khan",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "29050"
+    },
+    {
+      "city": "Toba Tek Singh",
+      "state": "Punjab",
+      "pincode": "36050"
+    },
+    {
+      "city": "Pakpattan",
+      "state": "Punjab",
+      "pincode": "57400"
+    },
+    {
+      "city": "Kundian",
+      "state": "Punjab",
+      "pincode": "42000"
+    },
+    {
+      "city": "Shahkot",
+      "state": "Punjab",
+      "pincode": "56200"
+    },
+    {
+      "city": "Kabirwala",
+      "state": "Punjab",
+      "pincode": "58250"
+    },
+    {
+      "city": "Hasilpur",
+      "state": "Punjab",
+      "pincode": "63000"
+    },
+    {
+      "city": "Charsadda",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "24420"
+    },
+    {
+      "city": "Bannu",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "28100"
+    },
+    {
+      "city": "Parachinar",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "26300"
+    },
+    {
+      "city": "Tangi",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "23200"
+    },
+    {
+      "city": "Kohat",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "26000"
+    },
+    {
+      "city": "Mansehra",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "21300"
+    },
+    {
+      "city": "Abbottabad",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "22010"
+    },
+    {
+      "city": "Nowshera",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "24100"
+    },
+    {
+      "city": "Swabi",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "23430"
+    },
+    {
+      "city": "Malakand",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "23050"
+    },
+    {
+      "city": "Batkhela",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "23020"
+    },
+    {
+      "city": "Timergara",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "18050"
+    },
+    {
+      "city": "Dir",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "18000"
+    },
+    {
+      "city": "Chitral",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "17200"
+    },
+    {
+      "city": "Gilgit",
+      "state": "Gilgit-Baltistan",
+      "pincode": "15100"
+    },
+    {
+      "city": "Skardu",
+      "state": "Gilgit-Baltistan",
+      "pincode": "16100"
+    },
+    {
+      "city": "Sibi",
+      "state": "Balochistan",
+      "pincode": "82000"
+    },
+    {
+      "city": "Loralai",
+      "state": "Balochistan",
+      "pincode": "84800"
+    },
+    {
+      "city": "Zhob",
+      "state": "Balochistan",
+      "pincode": "85000"
+    },
+    {
+      "city": "Qila Saifullah",
+      "state": "Balochistan",
+      "pincode": "86200"
+    },
+    {
+      "city": "Pishin",
+      "state": "Balochistan",
+      "pincode": "86700"
+    },
+    {
+      "city": "Chaman",
+      "state": "Balochistan",
+      "pincode": "86000"
+    },
+    {
+      "city": "Turbat",
+      "state": "Balochistan",
+      "pincode": "92600"
+    },
+    {
+      "city": "Gwadar",
+      "state": "Balochistan",
+      "pincode": "91200"
+    },
+    {
+      "city": "Panjgur",
+      "state": "Balochistan",
+      "pincode": "93000"
+    },
+    {
+      "city": "Khuzdar",
+      "state": "Balochistan",
+      "pincode": "89100"
+    },
+    {
+      "city": "Kalat",
+      "state": "Balochistan",
+      "pincode": "88300"
+    },
+    {
+      "city": "Mastung",
+      "state": "Balochistan",
+      "pincode": "88100"
+    },
+    {
+      "city": "Nushki",
+      "state": "Balochistan",
+      "pincode": "85400"
+    },
+    {
+      "city": "Chagai",
+      "state": "Balochistan",
+      "pincode": "95100"
+    },
+    {
+      "city": "Washuk",
+      "state": "Balochistan",
+      "pincode": "94100"
+    },
+    {
+      "city": "Kharan",
+      "state": "Balochistan",
+      "pincode": "94100"
+    },
+    {
+      "city": "Awaran",
+      "state": "Balochistan",
+      "pincode": "90100"
+    },
+    {
+      "city": "Lasbela",
+      "state": "Balochistan",
+      "pincode": "90150"
+    },
+    {
+      "city": "Kech",
+      "state": "Balochistan",
+      "pincode": "92600"
+    },
+    {
+      "city": "Ormara",
+      "state": "Balochistan",
+      "pincode": "91400"
+    },
+    {
+      "city": "Pasni",
+      "state": "Balochistan",
+      "pincode": "91300"
+    },
+    {
+      "city": "Jiwani",
+      "state": "Balochistan",
+      "pincode": "91100"
+    },
+    {
+      "city": "Hyderabad",
+      "state": "Sindh",
+      "pincode": "71000"
+    },
+    {
+      "city": "Larkana",
+      "state": "Sindh",
+      "pincode": "77150"
+    },
+    {
+      "city": "Jacobabad",
+      "state": "Sindh",
+      "pincode": "79000"
+    },
+    {
+      "city": "Shikarpur",
+      "state": "Sindh",
+      "pincode": "78100"
+    },
+    {
+      "city": "Khairpur",
+      "state": "Sindh",
+      "pincode": "66020"
+    },
+    {
+      "city": "Dadu",
+      "state": "Sindh",
+      "pincode": "76200"
+    },
+    {
+      "city": "Badin",
+      "state": "Sindh",
+      "pincode": "72200"
+    },
+    {
+      "city": "Thatta",
+      "state": "Sindh",
+      "pincode": "73210"
+    },
+    {
+      "city": "Tando Allahyar",
+      "state": "Sindh",
+      "pincode": "70050"
+    },
+    {
+      "city": "Tando Muhammad Khan",
+      "state": "Sindh",
+      "pincode": "70200"
+    },
+    {
+      "city": "Sanghar",
+      "state": "Sindh",
+      "pincode": "68100"
+    },
+    {
+      "city": "Naushahro Feroze",
+      "state": "Sindh",
+      "pincode": "67300"
+    },
+    {
+      "city": "Shaheed Benazirabad",
+      "state": "Sindh",
+      "pincode": "67400"
+    },
+    {
+      "city": "Jamshoro",
+      "state": "Sindh",
+      "pincode": "76000"
+    },
+    {
+      "city": "Umerkot",
+      "state": "Sindh",
+      "pincode": "69100"
+    },
+    {
+      "city": "Tharparkar",
+      "state": "Sindh",
+      "pincode": "69200"
+    },
+    {
+      "city": "Kashmore",
+      "state": "Sindh",
+      "pincode": "79100"
+    },
+    {
+      "city": "Ghotki",
+      "state": "Sindh",
+      "pincode": "65110"
+    },
+    {
+      "city": "Layyah",
+      "state": "Punjab",
+      "pincode": "31200"
+    },
+    {
+      "city": "Rajanpur",
+      "state": "Punjab",
+      "pincode": "33500"
+    },
+    {
+      "city": "Narowal",
+      "state": "Punjab",
+      "pincode": "51600"
+    },
+    {
+      "city": "Bahawalnagar",
+      "state": "Punjab",
+      "pincode": "62300"
+    },
+    {
+      "city": "Haripur",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "22620"
+    },
+    {
+      "city": "Hangu",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "26170"
+    },
+    {
+      "city": "Tank",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "29110"
+    },
+    {
+      "city": "Buner",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "19290"
+    },
+    {
+      "city": "Karak",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "27200"
+    },
+    {
+      "city": "Dera Bugti",
+      "state": "Balochistan",
+      "pincode": "95000"
+    },
+    {
+      "city": "Kohlu",
+      "state": "Balochistan",
+      "pincode": "83100"
+    },
+    {
+      "city": "Barkhan",
+      "state": "Balochistan",
+      "pincode": "84900"
+    },
+    {
+      "city": "Musakhel",
+      "state": "Balochistan",
+      "pincode": "85800"
+    },
+    {
+      "city": "Sherani",
+      "state": "Balochistan",
+      "pincode": "86300"
+    },
+    {
+      "city": "Lehri",
+      "state": "Balochistan",
+      "pincode": "85050"
+    },
+    {
+      "city": "Hunza",
+      "state": "Gilgit-Baltistan",
+      "pincode": "15700"
+    },
+    {
+      "city": "Ghizer",
+      "state": "Gilgit-Baltistan",
+      "pincode": "15600"
+    },
+    {
+      "city": "Ghanche",
+      "state": "Gilgit-Baltistan",
+      "pincode": "16800"
+    },
+    {
+      "city": "Diamer",
+      "state": "Gilgit-Baltistan",
+      "pincode": "14100"
+    },
+    {
+      "city": "Astore",
+      "state": "Gilgit-Baltistan",
+      "pincode": "14300"
+    },
+    {
+      "city": "Kolai Palas",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "20200"
+    },
+    {
+      "city": "Lower Kohistan",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "20010"
+    },
+    {
+      "city": "Upper Kohistan",
+      "state": "Khyber Pakhtunkhwa",
+      "pincode": "20020"
+    },
+    {
+      "city": "Palandri",
+      "state": "Azad Jammu and Kashmir",
+      "pincode": "12160"
+    },
+    {
+      "city": "Bagh",
+      "state": "Azad Jammu and Kashmir",
+      "pincode": "12500"
+    },
+    {
+      "city": "Rawalakot",
+      "state": "Azad Jammu and Kashmir",
+      "pincode": "12350"
+    }
+    
+  ]
+} 

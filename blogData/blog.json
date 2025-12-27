@@ -1,0 +1,8 @@
+{
+    "title": "First Blog Post",
+    "slug": "first-blog-post",
+    "author": "Usama",
+    "date": "2025-05-04",
+    "content": "This is the content of the first blog post. It talks about how to create a simple API in Next.js using file system access."
+  }
+  
